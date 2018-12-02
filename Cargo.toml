@@ -1,0 +1,6 @@
+[package]
+name = "steam_and_snow"
+version = "0.1.0"
+authors = ["shadowbiz <shadowbizgame@gmail.com>"]
+
+[dependencies]
